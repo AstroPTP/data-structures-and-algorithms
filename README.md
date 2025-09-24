@@ -6,7 +6,7 @@ Contributors can add implementations in different languages, and learners can ex
 
 ## 🏆 Contributing
 
-This repository is contribution friendly. Feel free to add or improve an algorithm, all contributions are welcome!! Please be sure to check out the (CONTRIBUTING)[] for instructions.
+This repository is contribution friendly. Feel free to add or improve an algorithm, all contributions are welcome!! Please be sure to check out the [CONTRIBUTING](CONTRIBUTING.md) for instructions.
 
 ## 📚 Data Structures
 
