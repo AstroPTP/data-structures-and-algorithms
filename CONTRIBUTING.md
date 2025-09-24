@@ -5,14 +5,14 @@ This repository is a collection of **Data Structures and Algorithms (DSA)** impl
 
 ### Table Of Contents
 
-[Code of Conduct](#code-of-conduct)  
-[How Can I Contribute?](#how-can-i-contribute)
+[Code of Conduct](#-code-of-conduct)  
+[How Can I Contribute?](#-how-can-i-contribute)
 
 -   [Your First Code Contribution](#your-first-code-contribution)
 -   [Instructions](#instructions)
 -   [Pull Requests](#pull-requests)
 
-[Style Guidelines](#style-guidelines)
+[Style Guidelines](#-style-guidelines)
 
 -   [Git Commit Messages](#git-commit-messages)
 -   [Documentation](#documentation)
@@ -25,7 +25,7 @@ This project follows a **Code of Conduct** to ensure a welcoming environment for
 -   Help others learn - this project is beginner-friendly
 -   No discrimination, harrassment, or offensive behavior
 
-See our (Code of Conduct)[] for more details
+See our [Code of Conduct](CODE_OF_CONDUCT.md) for more details
 
 ## 💻 How Can I Contribute?
 
@@ -84,7 +84,7 @@ git push origin feature/quick-sort-java
 ```
 
 -   Go to your fork on **Github** and click **Compare & Pull Request**
--   For your Pull Request, please use the (PULL_REQUEST_TEMPLATES)[]
+-   For your Pull Request, please use the [PULL_REQUEST_TEMPLATES](PULL_REQUEST_TEMPLATE.md)
 
 ## ✨ Style Guidelines
 
